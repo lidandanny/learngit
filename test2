@@ -1,3 +1,4 @@
 git is a distributed version control system
 git has a mutable index called stage
 on branch lidan push to origin
+default git push commond push master to origin/master
